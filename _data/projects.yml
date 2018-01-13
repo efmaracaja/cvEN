@@ -1,0 +1,26 @@
+- project:
+  title: Feasibility analysis of a photovoltaic system
+  link: "#"
+  tagline: "<li>Modelling of electricity needs of the building using SIMEB</li>
+            <li>Sizing the photovoltaic system</li>
+            <li>Calculate the economic indicators of the project</li>"
+- project:
+  title: Energy efficiency analysis of an institutional building
+  link: "#"
+  tagline: "<li>Optimize mechanical systems and the building envelope</li>
+            <li>Perform parametric analysis using DOE-2.2</li>
+            <li>Apply energy efficiency measures</li>"
+- project:
+  title: Project Management
+  link: "#"
+  tagline: "<li>Develop project tracking templates</li>
+            <li>Develop project schedule and costs</li>" 
+- project:
+  title: Development of a code on EES for the sizing of chillers 
+  link: "#"
+  tagline: "<li>Modeling of the components</li>
+            <li>Perform energy analysis (thermodynamics) of machines</li>" 
+
+
+
+

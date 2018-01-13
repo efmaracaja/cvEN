@@ -1,0 +1,39 @@
+# Site Settings
+title: Emanuel Maracajá
+url: 'efmaracaja.github.io'
+baseurl: '/EN' #change it according to your repository name
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+#Profile information
+name: Emanuel Maracajá
+tagline: MEng Energy efficiency and Renewables
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: <p align="justify">I'm interested in renewables and energy efficiency. In the field of renewables, I am particularly interested in solar energy. Therefore, I decided to continue my studies in the energy field after having obtained my degree in Mechanical Engineering. During the course of energy efficiency at ÉTS, I developed a project on energy simulation and energy efficiency measures for an institutional building. This project allowed me to develop my skills on DOE-2 and SIMEB software. I did an internship on the design and development of heat pumps and chillers in France, Montpellier. This project consisted on collecting client needs and sizing components accordingly. I have experience in the field of data analysis for decision-making.
+
+ </p>
+
+
+
+#sidebar links
+email: emanuel.ferreira-maracaja.1@ens.etsmtl.ca
+phone: +1 (438) 345-3241
+website: efmaracaja.github.io #do not add http://
+linkedin: emanuel-maracaja
+github: efmaracaja
+#Update all the sections by editing the files inside _data folder.
+
+# Tracker
+analytics: UA-83979019-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
