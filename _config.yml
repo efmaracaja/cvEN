@@ -1,6 +1,6 @@
 # Site Settings
 title: Emanuel Maracajá
-url: 'efmaracaja.github.io'
+url: 'https://efmaracaja.github.io'
 baseurl: /cvEN #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
