@@ -1,4 +1,10 @@
 - project:
+  title: Energy assessment and modelling of the hydronic system of Maison des Étudiants building (ÉTS)
+  link: "#"
+  tagline: "<li>Assess equipment performance through BAS data analysis</li>
+            <li>Propose improvements for the system control</li>
+            <li>Model the system on TRNSYS to simulate energy efficiency measures</li>"
+- project:
   title: Feasibility analysis of a photovoltaic system
   link: "#"
   tagline: "<li>Modelling of electricity needs of the building using SIMEB</li>
